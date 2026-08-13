@@ -123,4 +123,4 @@ I'm continuing to develop my portfolio around:
 
 ## 📫 Contact
 
-[LinkedIn](#www.linkedin.com/in/saraalvarezestevez) · [Email](mailto:sara.alvareze14@gmail.com)
+[LinkedIn](www.linkedin.com/in/saraalvarezestevez) · [Email](mailto:sara.alvareze14@gmail.com)
