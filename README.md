@@ -1,6 +1,5 @@
 # Hi, I'm Sara Álvarez 👋
 
-### Bioinformatics & Biostatistics
 
 I'm a Bioinformatics & Biostatistics MSc graduate with an interest in
 using statistical methods and programming to extract meaningful
@@ -124,4 +123,4 @@ I'm continuing to develop my portfolio around:
 
 ## 📫 Contact
 
-[LinkedIn](#) · [Email](mailto:YOUR_EMAIL@example.com)
+[LinkedIn](#www.linkedin.com/in/saraalvarezestevez) · [Email](mailto:sara.alvareze14@gmail.com)
