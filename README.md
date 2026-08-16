@@ -23,12 +23,13 @@ with a particular interest in genomics and reproducible research.
 
 ## 🚀 Featured projects
 
-| Project | Focus | Technologies |
+| Project | What I did | Technologies |
 |---|---|---|
-| 🧬 Gene Expression & Batch Effects | Genomic data analysis | R, GEOquery, PCA |
-| 📊 Cardiovascular Statistical Modelling | Regression & diagnostics | R, Statistics |
-| 🐍 Scientific Python | Scientific computing | Python, NumPy, SciPy |
-| 📈 Scientific Visualization | Data visualization | Python, Matplotlib |
+| 🧬 [Stemness & Immune Evasion in Breast Cancer](https://github.com/saraalv/stemness-immune-evasion-breast-cancer) | Multi-omics analysis & ML · Master's Thesis | R · RNA-seq · WGCNA · Random Forest |
+| 🧬 [Skin Cancer Subtyping](https://github.com/saraalv/SkinSubtyping-RNAseq) | RNA-seq classification | R · Machine Learning · Random Forest · SVM |
+| 📊 [DMD Biomarkers](https://github.com/saraalv/dmd-biomarcadores) | Statistical biomarker analysis | R · Biostatistics · Regression |
+| 🧬 [Bioinformatics Sequence Analysis](https://github.com/saraalv/bioinformatics-sequence-analysis) | Sequence & phylogenetic analysis | Python · Biopython · FASTA |
+| 🧪 [Bioinformatics Software Testing](https://github.com/saraalv/bioinformatics-software-testing) | Scientific software testing | Python · Unit Testing · Error Handling |
 
 ---
 
